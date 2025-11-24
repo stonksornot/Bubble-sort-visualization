@@ -41,7 +41,7 @@
                 "-lsfml-system"
             ],
             "options": {
-                "cwd": "${fileDirname}" // Changed from "C:\\msys64\\mingw64\\bin" for project folder
+                "cwd": "${fileDirname}"
             },
             "problemMatcher": [
                 "$gcc"
